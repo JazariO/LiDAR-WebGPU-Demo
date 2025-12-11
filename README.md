@@ -3,4 +3,4 @@
 https://jazario.github.io/LiDAR-WebGPU-Demo/
 
 ## Requirements
-Only runs via WebGPU on Microsoft Edge and Chrome, may work on Firefox and Safari.
+Runs via WebGPU on Microsoft Edge and DuckDuckGo, may work on Firefox and Safari.
